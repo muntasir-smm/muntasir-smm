@@ -1,9 +1,9 @@
 # 💫 About Me
 [![](https://visitcount.itsvg.in/api?id=muntasir-smm&icon=0&color=0)](https://visitcount.itsvg.in)
 
-Computer Science student and competitive programmer.  
-Focused on problem solving, algorithms, and web development.  
-Skilled in C, C++, HTML, CSS, and JavaScript with modern frontend tools.
+Computer Science student | Competitive Programmer | Web Developer  
+Focused on algorithms, problem solving, and modern web development.  
+Skilled in C, C++, HTML, CSS, and JavaScript.
 
 ---
 
