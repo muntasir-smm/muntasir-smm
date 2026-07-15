@@ -4,7 +4,7 @@
 
 Computer Science student | Competitive Programmer | Web Developer  
 Focused on algorithms, problem solving, and modern web development.  
-Skilled in C, C++, HTML, CSS, and JavaScript.
+Skilled in C, C++, Python, HTML, CSS, and JavaScript.
 
 ---
 
